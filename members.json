@@ -36,7 +36,7 @@
         "photo": "https://lh3.googleusercontent.com/fife/ALs6j_Gt5LnQXQdGUzHee_TjExIizK8YmQ38VGT2H_NfrLwa-9p5CnypyFt6cyCXIsbTJydPpuzxooLEXWUd6Pq-buxvFxm21IlZZ_mYvTjOnhw4ap7zW33KPJ5UAeAujkI4N1XIDJSvtMWCoQ15VWzzHUydpb3g-utVtTR6SfQPQO05XWhdvPVaacjNa9OQ9hQAZDonTbNdK-sHzPtrBep-nypWifM9cswnR3uHI7tq5M1_VROeFDU5_nQYE3Lfq8VMc2UEHoRVq9mdXOtWId8_WZOcj6MI8zWEDJUjdR7yxwxOyxPudO8ZCDNFIa2hNERsDZGxSxFrkJ-qGOI4GZK4TdSTWdUfdq4HfEnPuVonvioqWCSpQEnku4aARr-7lmv2Ejhv415uKHJnlfx0FVmmCUYnjuEKyUlt9Bps12z-QYIEjfkGuX9EAmkvsGcrciFe9zbHm4xpiPd3dkxL3RM68Vz47c34ywVqin4PNnycdmiBm33DD-jn-RNwkjdvDQ2PpwM-pQZwCZwqOMPavCrAUzwo26Knou_LjrGFm8jNl_ggHNiE-cqvuOdTFukEHs1za2Ye78GzCH9OZVMefbL1wuo-1nb2aNhVoAtVTmPgeaxWQ3wg4wqYz5ZrmakPlH3lSP3v27DHF4xEqrMYrDKH7gn_YV_A5k4rbRpFLj6AFGQX8BqW4CBjOIE21NQw8QlixsA4LOBCnWygU0gN9wtrhXI2B4BwD16ateuQbvI7mRELsdjroeQDT2XTbpgpfxxMz8YepVWO0nZ93gEWf0Oz6rSzgHVhzPzoPdAKQ7qeff0KoyIBO-9ZpXCexDTxqVPDB9I_NaemDAnkpfDNhIA5YW7ijBeN6U0RTFOoJIxsZYYpXdpSZ-6gA91TW4_R0ZCjWcrZGqNArYljDt3Z8kLbNF_bwraq8g0UMcHfZJck3JIpA7ukK711r1BNBWpj8mpRAiHwiATf8QxzoHOIcDzvQkIsVplc6IEdiC7HXD43CQ=w936-h889-rw-v1\r"
     },
     {
-        "name": "Gabriella dos Santos Sales ",
+        "name": "Gabriella Santos Sales ",
         "college": "IFF - Campus Cabo Frio ",
         "course": "Engenharia Mecânica ",
         "photo": "https://i.imgur.com/KTwY3cH.jpeg"
@@ -49,8 +49,8 @@
     },
     {
         "name": "Talita Cristina Rocha",
-        "college": "Rede Municipal Cabo Frio/ IFF Campus Macaé",
-        "course": "EM - Língua Portuguesa",
+        "college": "Língua Portuguesa",
+        "course": "EM",
         "photo": "https://i.imgur.com/3V37s8b.jpeg"
     },
     {
@@ -60,16 +60,16 @@
         "photo": "https://i.imgur.com/s069lZL.jpeg"
     },
     {
-        "name": "Matheus da Silva de Oliveira",
+        "name": "Matheus Silva Oliveira",
         "college": "UERJ - Campus Maracanã",
         "course": "Ciência da Computação",
         "photo": "https://i.imgur.com/wnFrY1N.jpeg"
     },
     {
         "name": "Bianca Costa Pereira",
-        "college": " ",
-        "course": "Voluntária Externa",
-        "photo": "null"
+        "college": "",
+        "course": "Voluntária",
+        "photo": "https://i.imgur.com/7cszjne.jpeg"
     },
     {
         "name": "Vithória Silva Gomes ",
@@ -79,7 +79,7 @@
     },
     {
         "name": "Rayssa Ribeiro de Souza Costa",
-        "college": "UFF- Campus Macaé",
+        "college": "UFF - Campus Macaé",
         "course": "Direito",
         "photo": "https://i.imgur.com/128VEdm.jpeg"
     },
